@@ -85,4 +85,4 @@ Avocado는 개인정보보호법에 따라 이용자들의 개인정보 보호 
 <br><br>
 9. 개인정보  보호책임자 작성
 
-- 이메일 : deepmedicorp@gmail.com, demianjun@gmail.coma
+- 이메일 : deepmedicorp@gmail.com, demianjun@gmail.com
